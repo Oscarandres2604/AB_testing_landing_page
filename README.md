@@ -22,15 +22,15 @@ Formular conclusiones y recomendaciones basadas en los resultados obtenidos.
 
 **3. Herramientas y tecnologías**
 
-Python: lenguaje principal para el procesamiento y análisis de datos.
+**Python**: lenguaje principal para el procesamiento y análisis de datos.
 
-Pandas y NumPy: manipulación, limpieza y transformación de datos.
+**Pandas y NumPy**: manipulación, limpieza y transformación de datos.
 
-Matplotlib y Seaborn: análisis exploratorio y visualización de datos.
+**Matplotlib y Seaborn**: análisis exploratorio y visualización de datos.
 
-SciPy: aplicación de pruebas estadísticas e inferenciales.
+**SciPy**: aplicación de pruebas estadísticas e inferenciales.
 
-Jupyter Notebook: entorno de desarrollo y documentación del análisis.
+**Jupyter Notebook**: entorno de desarrollo y documentación del análisis.
 
 **4. Metodología**
 
@@ -60,7 +60,7 @@ La diferencia fue de aproximadamente 3.38 puntos porcentuales a favor de la vers
 
 La prueba estadística arrojó un valor p de aproximadamente 3.76 × 10⁻²², proporcionando evidencia estadística suficiente para identificar una diferencia entre ambas versiones.
 
-Comportamiento del gasto
+**Comportamiento del gasto**
 
 Al analizar únicamente a los usuarios que realizaron una conversión, se observaron los siguientes resultados:
 
@@ -72,7 +72,7 @@ Diferencia aproximada: 12.54 % a favor de la versión B.
 
 La prueba t de Welch identificó una diferencia estadísticamente significativa entre los promedios de gasto de ambos grupos.
 
-Análisis de fuentes de tráfico
+**Análisis de fuentes de tráfico**
 
 Se identificó una asociación estadísticamente significativa entre la fuente de tráfico y la conversión (p ≈ 0.0341).
 
